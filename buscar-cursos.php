@@ -2,7 +2,7 @@
 
 require 'vendor/autoload.php';
 
-use Alura\BuscadorDeCursos\Buscador;
+use dhiego28\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
 
