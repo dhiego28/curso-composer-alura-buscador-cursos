@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "guzzlehttp/guzzle": "^7.0@dev",
+        "guzzlehttp/guzzle": "^7.0",
         "symfony/css-selector": "^5.1@dev",
         "symfony/dom-crawler": "^5.1@dev"
     }
